@@ -1,4 +1,4 @@
-# deployJava
+# Silverlight.js
 
 CommonJS/AMD wrapper for Microsoft's Silverlight.js
 
