@@ -1,0 +1,15 @@
+{
+  "name": "silverlight",
+  "version": "1.0.0",
+  "description": "CommonJS/AMD wrapper for Microsoft's Silverlight.js",
+  "main": "Silverlight.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "silverlight",
+    "silverlight.js"
+  ],
+  "author": "tomtwo",
+  "license": "Microsoft Public License"
+}

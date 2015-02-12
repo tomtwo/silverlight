@@ -1,0 +1,26 @@
+{
+  "name": "silverlight",
+  "main": "silverlight.js",
+  "version": "1.0.0",
+  "authors": [
+    "tomtwo"
+  ],
+  "description": "CommonJS/AMD wrapper for Microsoft's Silverlight.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "silverlight.js",
+    "silverlight"
+  ],
+  "license": "Microsoft Public License",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
